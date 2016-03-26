@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OkHTTPTutorial</string>
+    <string name="text_button">Proses OkHTTP</string>
+</resources>
